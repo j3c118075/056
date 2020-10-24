@@ -948,29 +948,6 @@
     width: 550px;
   }
   
-/*   .work-1::after{
-    font-size: small;
-    color: #999;
-    content: "- 〇〇〇の賃貸が伸びている理由とは？";
-    letter-spacing: normal;
-    width: auto;
-    height: 10px;
-    position: relative;
-    top: 400px; 
-    left: 350px;
-  }
-  
-  .work-2::after{
-    font-size: small;
-    color: #999;
-    content: "- 社員が語る地域での働き方";
-    letter-spacing: normal;
-    width: auto;
-    height: 10px;
-    position: relative;
-    top: 400px; 
-    left: 415px;
-  } */
   
   .btn-work {
     height: 3em; 
