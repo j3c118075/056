@@ -1840,6 +1840,8 @@
 }
 
 
+.fd {
+  opacity: 1;
 
 ul {
   margin-left: -30px;
@@ -1859,6 +1861,4 @@ ul.dashed > li:before {
   resize: none;
 }
 
-.fade {
-  opacity: 1;
 }
